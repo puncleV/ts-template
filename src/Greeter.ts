@@ -5,8 +5,7 @@ export class Greeter {
     this.subject = subject;
   }
 
-  public greeting() {
-    // tslint:disable-next-line: no-console
+  public greeting(): string {
     return `Hello ${this.subject}!`;
   }
 }
