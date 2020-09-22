@@ -1,6 +1,6 @@
 import * as casual from "casual";
 
-import {Greeter} from "../src/Greeter";
+import { Greeter } from "../src/Greeter";
 
 describe("Greeter", () => {
   it("should greet anything", () => {

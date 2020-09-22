@@ -1,4 +1,4 @@
-import {Greeter} from "./Greeter";
+import { Greeter } from "./Greeter";
 
 const greeter = new Greeter("world");
 
